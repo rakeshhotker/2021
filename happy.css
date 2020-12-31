@@ -1,0 +1,21 @@
+.buttons
+{
+    font-size:50px;
+    margin:30px;
+}
+#members
+{
+    display:flex;
+    justify-content:space-around;
+}
+.wish
+{
+    font-size:100px;
+    font-family: cursive;
+    color:azure;
+}
+body
+{
+    background-image:url(https://i.pinimg.com/originals/e0/78/e0/e078e0f017b5f194781cba20a7cdd25b.gif);
+    
+}
